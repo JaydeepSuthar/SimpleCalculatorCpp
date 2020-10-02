@@ -9,10 +9,10 @@ int main()
 	cout<<"\nWelcome to the Basic Calculator Made By Jaydeep in C++"<<endl;
 	cout<<"\nEnter the first number: ";
 	cin>>num1;
-	cout<<"\nEnter the second number: ";
-	cin>>num2;	
 	cout<<"\nEnter the Operator(+ - * / %): ";
 	cin>>op;
+	cout<<"\nEnter the second number: ";
+	cin>>num2;	
 	
 	if (op == '+')
 	{
